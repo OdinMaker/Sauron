@@ -150,7 +150,7 @@ img#oculos{
     
     background-color: var(--dia);
     width: 70vw;
-    margin: 10vw;
+    margin: auto;
     padding: 2em;
     border-radius: 15px;
     text-align: justify;
@@ -191,6 +191,36 @@ nav > button{
 
 @media(min-width: 834px){
 
+    img#logo {
 
+        position: relative;
+        left: 22vw;
+    
+    }
+    
+    img#bs {
+    
+        left: 74vw;
+    
+    }
+    
+    img#hb {
+    
+        left: 74vw;
+    
+    }
+
+    .container-sec2{
+    
+        width: 50vw;
+    
+    }
+
+    #sec3{
+
+        height: auto;
+        width: 50vw;
+
+    }
 
 }
